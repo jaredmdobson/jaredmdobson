@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jaredmdobson
 - 👀 I’m interested in psycology, philosophy, databases and software arhcitecture.
-- 🌱 I’m currently learning History.
-- 💞️ I’m looking to collaborate on a verified knowledge organization.
+
+
