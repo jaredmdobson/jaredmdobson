@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jaredmdobson
-- 👀 I’m interested in psycology, philosophy, databases and software arhcitecture.
+- 👀 I am really loving Java, Gradle, GRPC, libgdx.
 
 
