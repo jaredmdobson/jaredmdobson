@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jaredmdobson
-- 👀 I am really loving Java, Gradle, GRPC, libgdx.
-
-
+- 👷‍♂️ I am a data engineer @ ReMatter.com
+- 📊 I db in Clickhouse, PostgreSQL, MySQL
+- 🔄 I pipe data using Dagster, PeerDB, Airbyte and Tapdata
